@@ -39,7 +39,7 @@ class NarraNetStoryGenerator:
         return ending
 
 # Streamlit Web Interface
-def main():
+ def main():
     # Page configuration
     st.set_page_config(
         page_title="NarraNet Story Generator",
